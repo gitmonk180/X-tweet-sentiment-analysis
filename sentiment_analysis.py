@@ -14,7 +14,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import LabelEncoder
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\jaisaikrishna\Downloads\twitter_training.csv\twitter_training.csv")
+df = pd.read_csv("twitter_training.csv")
 df = df.iloc[:, 2:]
 
 # Reorganize columns
