@@ -21,3 +21,10 @@ The goal of this project is to process a dataset of tweets and use machine learn
 - The model's performance was evaluated using accuracy score.
 - Train data accuracy: 95%
 - Test data accuracy: 88%
+
+## Clone the Repo
+To clone this repository to your local machine, run the following command in your terminal or command prompt:
+
+```bash
+
+git clone https://github.com/gitmonk180/X-tweet-sentiment-analysis.git
