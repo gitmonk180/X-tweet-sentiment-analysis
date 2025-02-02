@@ -5,7 +5,9 @@ The goal of this project is to process a dataset of tweets and use machine learn
 - **NumPy & Pandas**
 - **NLTK**
 - **Scikit-learn**
-
+## Data Source:
+- The data chosen is available on kaggle.
+- https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis 
 ### 1. Data Preprocessing:
 - We clean the data by removing unnecessary symbols, punctuation, and emojis from the tweet text.
 - Stopwords (common words that do not contribute much meaning) are removed to reduce noise in the text.
