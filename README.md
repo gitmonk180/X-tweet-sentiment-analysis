@@ -1,13 +1,14 @@
 # X-tweet-sentiment-analysis
 ## Overview
 The goal of this project is to process a dataset of tweets and use machine learning models to predict whether the sentiment of each tweet is positive, negative, or neutral. The process includes data cleaning, text preprocessing, feature extraction, model training, and evaluation.
+## Data Source:
+- The data chosen is available on kaggle:- https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+  
 ## Libraries Used
 - **NumPy & Pandas**
 - **NLTK**
 - **Scikit-learn**
-## Data Source:
-- The data chosen is available on kaggle.
-- https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis 
+   
 ### 1. Data Preprocessing:
 - We clean the data by removing unnecessary symbols, punctuation, and emojis from the tweet text.
 - Stopwords (common words that do not contribute much meaning) are removed to reduce noise in the text.
